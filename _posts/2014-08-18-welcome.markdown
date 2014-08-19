@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to Calculus 2!"
+date:   2014-08-08 10:52:10
+categories: announcements 
+---
+
+Welcome to our Calculus 2 course!

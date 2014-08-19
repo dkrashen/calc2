@@ -1,15 +1,15 @@
 testing: true
 
 # Site settings
-title: "Algebraic Stacks"
+title: "Calculus 2"
 email: "&#100;&#107;&#114;&#97;&#115;&#104;&#101;&#110;&#64;&#109;&#97;&#116;&#104;&#46;&#117;&#103;&#97;&#46;&#101;&#100;&#117;&#13;&#10;&#13;&#10;"
-tagline: "UGA MATH 8830, Fall 2014." 
-description: "An introductory course in the theory of Descent, Algebraic
-Spaces and Algebraic Stacks."
+tagline: "UGA MATH 2260, Fall 2014." 
+description: "techniques of integration, surface and volumes of revolution,
+arclength, limits and l'Hopital's rule, introduction to vectors."
 image_link: ""
-image_src: "/images/Mac.jpg"
+image_src: "http://upload.wikimedia.org/wikipedia/commons/4/4b/Ceraunus_Blue_%28Hemiargus_ceraunus%29_%287376863244%29.jpg"
 
-baseurl: "/stacks"
+baseurl: "/calc2"
 
 # url: "localhost:4000"
 # url: "http://math.dkrashen.org"
