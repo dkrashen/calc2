@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Getting started with WebWork"
+date:   2014-08-08 10:52:10
+categories: announcements 
+---
+
+You can access our class WebWork page at:
+[https://webwork.math.uga.edu/webwork2/Math2260_Krashen_F14/][webwork]
+
+The first time you go to the WebWork address, you will be given a warning
+about the security, for example “This connection is untrusted,” or similar.
+Please ignore this and continue (i.e. choose "continue" or “proceed” or “I
+understand the risks”, etcetera).
+
+**logging on** works like this:
+
+    login: 810123456
+    password: (myid)
+
+
+To log into the system, your username is your myid (i.e. if your uga email
+is person@uga.edu, then your username is “person”) Your password is the
+first nine digits of your 810 number (or 811 number as the case may be),
+written _together without dashes_. 
+For example, your password will look something like: 810123456. This might
+mean that you are omitting the last digit of your card (which might
+actually be 8101234561, for example).
+
+[webwork]: https://webwork.math.uga.edu/webwork2/Math2260_Krashen_F14/
