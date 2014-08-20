@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Integration Review Resources"
-date:   2014-08-08 10:52:10
+date:   2014-08-19
 categories: announcements 
 ---
 
