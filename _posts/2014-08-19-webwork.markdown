@@ -15,8 +15,8 @@ understand the risks”, etcetera).
 
 **logging on** works like this:
 
-    login: 810123456
-    password: (myid)
+    login: (myid)
+    password: 810123456
 
 
 To log into the system, your username is your myid (i.e. if your uga email
