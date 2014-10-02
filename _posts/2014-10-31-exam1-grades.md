@@ -16,4 +16,9 @@ Some comments
   - If you are in either the D or the F range, it is extremely important that you make an appointment with me to get a strategy for the remainder of the course
  
 
+	[Grade Distribution][grades]
+
 ![Grade Distribution](/calc2/exam1_grade_distribution.pdf)
+
+[grades]: /calc2/exam1_grade_distribution.pdf
+
