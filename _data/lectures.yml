@@ -85,3 +85,6 @@
 - title: "Lecture 29"
   filename: "lecture29.pdf"
   description: "The ratio and root tests"
+- title: "Lecture 30"
+  filename: "lecture30.pdf"
+  description: "Computing the radius of convergence and life on the boundary"
