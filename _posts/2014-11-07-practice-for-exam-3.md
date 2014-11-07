@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Practice sheet for exam 2"
+title:  "Practice sheet for exam 3"
 date:   2014-11-07
 categories: announcements 
 
