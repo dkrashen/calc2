@@ -88,3 +88,6 @@
 - title: "Lecture 30"
   filename: "lecture30.pdf"
   description: "Computing the radius of convergence and life on the boundary"
+- title: "Lecture 31"
+  filename: "lecture31.pdf"
+  description: "Practice with convergence; Taylor series"
