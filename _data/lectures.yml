@@ -100,3 +100,6 @@
 - title: "Lecture 34"
   filename: "lecture34.pdf"
   description: "Using Taylor series. Functions in more variables."
+- title: "Lecture 35"
+  filename: "lecture35.pdf"
+  description: "Vectors and functions in higher dimensions."
