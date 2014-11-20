@@ -7,7 +7,7 @@ categories: announcements
 
 ---
 
-Grades for the second exam are in and available on eLC. You can see the overall grade distrubution below as well as the corresponding letter grades.
+Grades for the third exam are in and available on eLC. You can see the overall grade distrubution below as well as the corresponding letter grades.
 
 [Grade Distribution][grades]
 
